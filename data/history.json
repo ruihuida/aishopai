@@ -1,0 +1,210 @@
+[
+  {
+    "id": "diag_1779840746682",
+    "storeId": "store_1688_001",
+    "storeName": "瑞慧达工艺品1688店",
+    "platform": "1688",
+    "createdAt": "2026/5/27 08:12:26",
+    "mode": "历史复盘",
+    "storeSnapshot": {
+      "id": "store_1688_001",
+      "platform": "1688",
+      "storeName": "瑞慧达工艺品1688店",
+      "accountName": "ruihuida1688",
+      "authorized": true,
+      "lastSync": "2026/5/27 08:12:24",
+      "dataScope": [
+        "商品",
+        "订单",
+        "询盘",
+        "售后",
+        "库存",
+        "广告"
+      ],
+      "today": {
+        "gmv": 20732,
+        "orders": 48,
+        "inquiries": 185,
+        "ctr": 3.1,
+        "cvr": 1.2,
+        "roi": 3.6,
+        "refundRate": 1.7
+      },
+      "yesterday": {
+        "gmv": 23709,
+        "orders": 80,
+        "inquiries": 129,
+        "ctr": 3.7,
+        "cvr": 2.2,
+        "roi": 3.1,
+        "refundRate": 1.9
+      },
+      "createdAt": "2026-05-27 09:30"
+    },
+    "problem": "",
+    "executionFeedback": "",
+    "nextReviewItems": [
+      "记录今日核心动作和明日数据变化",
+      "检查询盘、点击率、转化率和ROI是否有改善",
+      "反馈客户跟进、主图优化或详情页优化的执行情况"
+    ],
+    "result": "【AI成交分析】\n\n客户类型：价格敏感型 / 观望型。\n成交概率：中等。\n\n当前问题：过早报价，客户还没有明确采购数量、用途和交期。\n\n推荐回复：\n老板，价格主要看采购数量、规格和是否需要定制。您这边预计采购多少个？是现货用还是长期补货？我可以根据您的数量帮您核一个更合适的批发合作价。\n\n下一步动作：\n1. 先问数量。\n2. 再问用途。\n3. 给阶梯报价。\n4. 24小时后追单。",
+    "relatedKnowledgeCount": 1
+  },
+  {
+    "id": "diag_1779840069689",
+    "storeId": "store_1688_001",
+    "storeName": "瑞慧达工艺品1688店",
+    "platform": "1688",
+    "createdAt": "2026/5/27 08:01:09",
+    "mode": "历史复盘",
+    "storeSnapshot": {
+      "id": "store_1688_001",
+      "platform": "1688",
+      "storeName": "瑞慧达工艺品1688店",
+      "accountName": "ruihuida1688",
+      "authorized": true,
+      "lastSync": "2026/5/27 08:00:19",
+      "dataScope": [
+        "商品",
+        "订单",
+        "询盘",
+        "售后",
+        "库存",
+        "广告"
+      ],
+      "today": {
+        "gmv": 23709,
+        "orders": 80,
+        "inquiries": 129,
+        "ctr": 3.7,
+        "cvr": 2.2,
+        "roi": 3.1,
+        "refundRate": 1.9
+      },
+      "yesterday": {
+        "gmv": 22954,
+        "orders": 28,
+        "inquiries": 113,
+        "ctr": 2.1,
+        "cvr": 2,
+        "roi": 3.7,
+        "refundRate": 1
+      },
+      "createdAt": "2026-05-27 09:30"
+    },
+    "problem": "分析我店铺的产品那几个卖得好，并发给我",
+    "executionFeedback": "",
+    "nextReviewItems": [
+      "记录今日核心动作和明日数据变化",
+      "检查询盘、点击率、转化率和ROI是否有改善",
+      "反馈客户跟进、主图优化或详情页优化的执行情况"
+    ],
+    "result": "【AI成交分析】\n\n客户类型：价格敏感型 / 观望型。\n成交概率：中等。\n\n当前问题：过早报价，客户还没有明确采购数量、用途和交期。\n\n推荐回复：\n老板，价格主要看采购数量、规格和是否需要定制。您这边预计采购多少个？是现货用还是长期补货？我可以根据您的数量帮您核一个更合适的批发合作价。\n\n下一步动作：\n1. 先问数量。\n2. 再问用途。\n3. 给阶梯报价。\n4. 24小时后追单。",
+    "relatedKnowledgeCount": 1
+  },
+  {
+    "id": "diag_1779839976851",
+    "storeId": "store_1688_001",
+    "storeName": "瑞慧达工艺品1688店",
+    "platform": "1688",
+    "createdAt": "2026/5/27 07:59:36",
+    "mode": "历史复盘",
+    "storeSnapshot": {
+      "id": "store_1688_001",
+      "platform": "1688",
+      "storeName": "瑞慧达工艺品1688店",
+      "accountName": "ruihuida1688",
+      "authorized": true,
+      "lastSync": "2026-05-27 09:30",
+      "dataScope": [
+        "商品",
+        "订单",
+        "询盘",
+        "售后",
+        "库存",
+        "广告"
+      ],
+      "today": {
+        "gmv": 28520,
+        "orders": 42,
+        "inquiries": 136,
+        "ctr": 2.1,
+        "cvr": 1.2,
+        "roi": 1.9,
+        "refundRate": 1.6
+      },
+      "yesterday": {
+        "gmv": 22860,
+        "orders": 35,
+        "inquiries": 118,
+        "ctr": 2.8,
+        "cvr": 1.5,
+        "roi": 2.4,
+        "refundRate": 1.3
+      },
+      "createdAt": "2026-05-27 09:30"
+    },
+    "problem": "",
+    "executionFeedback": "",
+    "nextReviewItems": [
+      "记录今日核心动作和明日数据变化",
+      "检查询盘、点击率、转化率和ROI是否有改善",
+      "反馈客户跟进、主图优化或详情页优化的执行情况"
+    ],
+    "result": "【AI成交分析】\n\n客户类型：价格敏感型 / 观望型。\n成交概率：中等。\n\n当前问题：过早报价，客户还没有明确采购数量、用途和交期。\n\n推荐回复：\n老板，价格主要看采购数量、规格和是否需要定制。您这边预计采购多少个？是现货用还是长期补货？我可以根据您的数量帮您核一个更合适的批发合作价。\n\n下一步动作：\n1. 先问数量。\n2. 再问用途。\n3. 给阶梯报价。\n4. 24小时后追单。",
+    "relatedKnowledgeCount": 1
+  },
+  {
+    "id": "diag_1779839955044",
+    "storeId": "store_1688_001",
+    "storeName": "瑞慧达工艺品1688店",
+    "platform": "1688",
+    "createdAt": "2026/5/27 07:59:15",
+    "mode": "首次诊断",
+    "storeSnapshot": {
+      "id": "store_1688_001",
+      "platform": "1688",
+      "storeName": "瑞慧达工艺品1688店",
+      "accountName": "ruihuida1688",
+      "authorized": true,
+      "lastSync": "2026-05-27 09:30",
+      "dataScope": [
+        "商品",
+        "订单",
+        "询盘",
+        "售后",
+        "库存",
+        "广告"
+      ],
+      "today": {
+        "gmv": 28520,
+        "orders": 42,
+        "inquiries": 136,
+        "ctr": 2.1,
+        "cvr": 1.2,
+        "roi": 1.9,
+        "refundRate": 1.6
+      },
+      "yesterday": {
+        "gmv": 22860,
+        "orders": 35,
+        "inquiries": 118,
+        "ctr": 2.8,
+        "cvr": 1.5,
+        "roi": 2.4,
+        "refundRate": 1.3
+      },
+      "createdAt": "2026-05-27 09:30"
+    },
+    "problem": "",
+    "executionFeedback": "",
+    "nextReviewItems": [
+      "记录今日核心动作和明日数据变化",
+      "检查询盘、点击率、转化率和ROI是否有改善",
+      "反馈客户跟进、主图优化或详情页优化的执行情况"
+    ],
+    "result": "【AI成交分析】\n\n客户类型：价格敏感型 / 观望型。\n成交概率：中等。\n\n当前问题：过早报价，客户还没有明确采购数量、用途和交期。\n\n推荐回复：\n老板，价格主要看采购数量、规格和是否需要定制。您这边预计采购多少个？是现货用还是长期补货？我可以根据您的数量帮您核一个更合适的批发合作价。\n\n下一步动作：\n1. 先问数量。\n2. 再问用途。\n3. 给阶梯报价。\n4. 24小时后追单。",
+    "relatedKnowledgeCount": 1
+  }
+]

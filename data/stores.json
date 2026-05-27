@@ -1,0 +1,37 @@
+[
+  {
+    "id": "store_1688_001",
+    "platform": "1688",
+    "storeName": "瑞慧达工艺品1688店",
+    "accountName": "ruihuida1688",
+    "authorized": true,
+    "lastSync": "2026/5/27 08:12:24",
+    "dataScope": [
+      "商品",
+      "订单",
+      "询盘",
+      "售后",
+      "库存",
+      "广告"
+    ],
+    "today": {
+      "gmv": 20732,
+      "orders": 48,
+      "inquiries": 185,
+      "ctr": 3.1,
+      "cvr": 1.2,
+      "roi": 3.6,
+      "refundRate": 1.7
+    },
+    "yesterday": {
+      "gmv": 23709,
+      "orders": 80,
+      "inquiries": 129,
+      "ctr": 3.7,
+      "cvr": 2.2,
+      "roi": 3.1,
+      "refundRate": 1.9
+    },
+    "createdAt": "2026-05-27 09:30"
+  }
+]
